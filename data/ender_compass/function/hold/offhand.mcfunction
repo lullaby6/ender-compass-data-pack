@@ -3,7 +3,7 @@ execute store result score @s ender_compass.y run data get entity @s Inventory[{
 execute store result score @s ender_compass.z run data get entity @s Inventory[{Slot:-106b}].components."minecraft:lodestone_tracker".target.pos[2]
 
 execute if dimension minecraft:overworld run scoreboard players set @s ender_compass.dimension 1
-execute if dimension minecraft:the_nether run item modify entity @s weapon.offhand ender_compass:dimension/the_nether
+execute if dimension minecraft:overworld run item modify entity @s weapon.offhand ender_compass:dimension/overworld
 
 execute if dimension minecraft:the_nether run scoreboard players set @s ender_compass.dimension 2
 execute if dimension minecraft:the_nether run item modify entity @s weapon.offhand ender_compass:dimension/the_nether
