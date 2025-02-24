@@ -1,0 +1,6 @@
+{
+    "function": "minecraft:set_custom_data",
+    "tag": {
+        "ender_compass.dimension": "the_nether"
+    }
+}
