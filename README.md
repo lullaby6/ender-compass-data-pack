@@ -13,7 +13,7 @@ Craft a new item called `Ender Compass` and use it with a lodestone to link it a
 
 This Data-Pack/Mod does `not work` with dimensions from other mods/Data-Packs
 
-Version: `1.21.4`
+Version: `1.21.5`
 
 ## 📂 Installation
 
@@ -21,7 +21,7 @@ Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
 
 ## 👾 Bugs/Issues
 
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/ender-compass-data-pack/issues).
+Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
 
 ## 🛠️ Recipe
 
