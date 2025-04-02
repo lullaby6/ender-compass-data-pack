@@ -1,6 +1,6 @@
-execute store result score @s ender_compass.x run data get entity @s Inventory[{Slot:-106b}].components."minecraft:lodestone_tracker".target.pos[0]
-execute store result score @s ender_compass.y run data get entity @s Inventory[{Slot:-106b}].components."minecraft:lodestone_tracker".target.pos[1]
-execute store result score @s ender_compass.z run data get entity @s Inventory[{Slot:-106b}].components."minecraft:lodestone_tracker".target.pos[2]
+execute store result score @s ender_compass.x run data get entity @s equipment.offhand.components."minecraft:lodestone_tracker".target.pos[0]
+execute store result score @s ender_compass.y run data get entity @s equipment.offhand.components."minecraft:lodestone_tracker".target.pos[1]
+execute store result score @s ender_compass.z run data get entity @s equipment.offhand.components."minecraft:lodestone_tracker".target.pos[2]
 
 execute if dimension minecraft:overworld run scoreboard players set @s ender_compass.dimension 1
 execute if dimension minecraft:overworld run item modify entity @s weapon.offhand ender_compass:dimension/overworld
