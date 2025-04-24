@@ -11,17 +11,7 @@
 
 Craft a new item called `Ender Compass` and use it with a lodestone to link it and then teleport!
 
-This Data-Pack/Mod does `not work` with dimensions from other mods/Data-Packs
-
-Version: `1.21.5`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
+`Not work` with dimensions from other mods/Data-Packs
 
 ## 🛠️ Recipe
 
@@ -35,18 +25,6 @@ Give:
 /loot give @s loot ender_compass:ender_compass
 ```
 
-Disable:
-
-```mcfunction
-/datapack disable "file/ender-compass.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/ender-compass.zip"
-```
-
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/ender-compass-data-pack/blob/main/LICENSE)
+[AGPLv3](https://github.com/lullaby6/ender-compass-data-pack/blob/main/LICENSE)
