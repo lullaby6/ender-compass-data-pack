@@ -3,13 +3,13 @@
   "entity": "this",
   "lore": [
     {
-      text: "Use to teleport to the linked lodestone",
-      color: "gray",
-      italic: false
+      "text": "Use to teleport to the linked lodestone",
+      "color": "gray",
+      "italic": false
     },
     "",
     {
-      text: "X: ",
+      "text": "X: ",
       "extra": [
         {
           "score": {
@@ -18,7 +18,7 @@
           },
           "extra": [
             {
-              text: " Y: ",
+              "text": " Y: ",
               "extra": [
                 {
                   "score": {
@@ -27,35 +27,35 @@
                   },
                   "extra": [
                     {
-                      text: " Z: ",
+                      "text": " Z: ",
                       "extra": [
                         {
                           "score": {
                             "objective": "ender_compass.z",
                             "name": "@s"
                           },
-                          color: "gray",
-                          italic: false
+                          "color": "gray",
+                          "italic": false
                         }
                       ],
-                      color: "gray",
-                      italic: false
+                      "color": "gray",
+                      "italic": false
                     }
                   ],
-                  color: "gray",
-                  italic: false
+                  "color": "gray",
+                  "italic": false
                 }
               ],
-              color: "gray",
-              italic: false
+              "color": "gray",
+              "italic": false
             }
           ],
-          color: "gray",
-          italic: false
+          "color": "gray",
+          "italic": false
         }
       ],
-      color: "gray",
-      italic: false
+      "color": "gray",
+      "italic": false
     }
   ],
   "mode": "replace_all"

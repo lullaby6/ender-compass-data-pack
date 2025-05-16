@@ -16,6 +16,8 @@
     }
   },
   "rewards": {
-    "recipes": ["ender_compass:ender_compass"]
+    "recipes": [
+      "ender_compass:ender_compass"
+    ]
   }
 }
